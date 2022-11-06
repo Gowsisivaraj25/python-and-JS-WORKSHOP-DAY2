@@ -1,1 +1,1 @@
-# python-and-JS-WORKSHOP-DAY2
+# bit-image-fe
